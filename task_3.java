@@ -4,9 +4,8 @@
   private final boolean result;
 
   public CheckIsAdultTest(int age, boolean result) {
-	// Инициализируй поля класса в конструкторе
-        	this.age = age;
-            this.result = result;
+      	this.age = age;
+        this.result = result;
   }
 
   // Пометь метод аннотацией для параметров
